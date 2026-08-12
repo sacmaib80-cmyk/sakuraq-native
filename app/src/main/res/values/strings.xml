@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SakuraQ Native</string>
+
+    <!-- nav -->
+    <string name="nav_home">หน้าหลัก</string>
+    <string name="nav_today">วันนี้</string>
+    <string name="nav_history">ประวัติ</string>
+
+    <!-- common -->
+    <string name="common_next">ต่อไป</string>
+    <string name="common_back">กลับ</string>
+    <string name="common_min">นาที</string>
+    <string name="common_points">แต้ม</string>
+    <string name="common_discard">ทิ้ง</string>
+    <string name="common_day">วัน</string>
+
+    <!-- home -->
+    <string name="home_today">แต้มวันนี้</string>
+    <string name="home_level">เลเวล</string>
+    <string name="home_lifetime">แต้มสะสม</string>
+    <string name="home_lifetime_sub">ตลอดกาล</string>
+    <string name="home_start">เริ่มเควสกันเลย</string>
+    <string name="home_streak_days">%1$d วัน</string>
+    <string name="home_lv_pts">%1$s/100 แต้ม</string>
+
+    <string name="home_g_zero">มาลุยกันนะ</string>
+    <string name="home_g_zero_sub">%1$sยังไม่เริ่มเลย เริ่มเควสแรกกันมั้ย?</string>
+    <string name="home_g_low">ดีมากเลย</string>
+    <string name="home_g_low_sub">เริ่มไป %1$s แล้ว ไปต่อกันเถอะ!</string>
+    <string name="home_g_mid">กำลังมาแรง</string>
+    <string name="home_g_mid_sub">%1$s แต้มแล้ว วันนี้เริ่ดมาก ✨</string>
+    <string name="home_g_near">สุดยอดไปเลย</string>
+    <string name="home_g_near_sub">%1$s/100 อีกนิดเดียวก็เต็มแล้ว!</string>
+    <string name="home_g_max">เทพมาก!</string>
+    <string name="home_g_max_sub">ทำครบ 100 แล้ววันนี้ พักได้เลยนะ 🌸</string>
+    <string name="period_morning">เช้านี้</string>
+    <string name="period_afternoon">บ่ายนี้</string>
+    <string name="period_evening">เย็นนี้</string>
+    <string name="period_night">ค่ำนี้</string>
+
+    <!-- quest flow -->
+    <string name="flow_new">เริ่มเควสใหม่</string>
+    <string name="flow_step_cat">เลือกหมวด</string>
+    <string name="flow_step_name">ตั้งชื่อเควส</string>
+    <string name="flow_step_dur">ตั้งเวลา</string>
+    <string name="flow_name_q">เควสนี้ทำอะไร?</string>
+    <string name="flow_name_ph">เช่น อ่านหนังสือบทที่ 3</string>
+    <string name="flow_recent">เควสล่าสุด</string>
+    <string name="flow_bonus_on">✓ ปลดล็อกโบนัสได้ (+2/+4/+6)</string>
+    <string name="flow_bonus_off">ต้อง ≥ 25 นาที ถึงมีลุ้นโบนัส</string>
+    <string name="flow_start_now">เริ่มเลย!</string>
+
+    <!-- run -->
+    <string name="run_focus">กำลังโฟกัส</string>
+    <string name="run_paused">⏸ หยุดชั่วคราว</string>
+    <string name="run_overtime">เกินเวลาแล้ว!</string>
+    <string name="run_end">จบเควส</string>
+
+    <!-- report -->
+    <string name="report_done">เควสสำเร็จ!</string>
+    <string name="report_how_long">ทำไปกี่นาที?</string>
+    <string name="report_will_get">จะได้</string>
+    <string name="report_bonus">โบนัส +%1$d</string>
+    <string name="report_reflect_title">เขียนสะท้อน → รับโบนัส</string>
+    <string name="report_reflect_sub">บันทึกสิ่งที่ได้เรียนรู้ +2/+4/+6</string>
+    <string name="report_reflect_need">ต้องทำ ≥ %1$d นาทีก่อน</string>
+    <string name="report_save">บันทึกเลย</string>
+    <string name="report_note">สะท้อนสั้นๆ ว่าได้อะไร (+2)</string>
+    <string name="report_note_hint">≥ 20 ตัวอักษร</string>
+    <string name="report_why">ทำไปทำไม / สำคัญยังไง (+4)</string>
+    <string name="report_why_hint">≥ 12 ตัวอักษร</string>
+    <string name="report_from">ก่อนหน้านี้…</string>
+    <string name="report_to">ตอนนี้เปลี่ยนเป็น…</string>
+    <string name="report_char_hint">≥ %1$d ตัว</string>
+    <string name="report_proof">หลักฐาน / สิ่งที่ทำได้จริง (+6)</string>
+    <string name="report_proof_hint">≥ 10 ตัวอักษร</string>
+
+    <!-- celebrate -->
+    <string name="celebrate_gained">ได้รับแต้ม</string>
+    <string name="celebrate_bonus">⚡ โบนัสคุณภาพ +%1$d</string>
+    <string name="celebrate_tap">แตะเพื่อไปต่อ</string>
+
+    <!-- today -->
+    <string name="today_eyebrow">วันนี้</string>
+    <string name="today_title">ผลงานวันนี้</string>
+    <string name="today_from_goal">จาก %1$d แต้ม · %2$d เควส</string>
+    <string name="today_empty">ยังไม่มีเควสวันนี้</string>
+    <string name="today_empty_sub">กดปุ่มเริ่มที่หน้าหลักได้เลย</string>
+    <string name="today_deleted">ลบเควสแล้ว</string>
+
+    <!-- history -->
+    <string name="history_eyebrow">ประวัติ</string>
+    <string name="history_title">เส้นทางของคุณ</string>
+    <string name="history_streak">สตรีค</string>
+    <string name="history_level">เลเวล</string>
+    <string name="history_lifetime">แต้มรวม</string>
+    <string name="history_range">%1$d วันล่าสุด</string>
+    <string name="history_avg">เฉลี่ย %1$s/วัน</string>
+    <string name="history_today">วันนี้</string>
+    <string name="history_no_quest">วันนี้ไม่มีเควส</string>
+</resources>
