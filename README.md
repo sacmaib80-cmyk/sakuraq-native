@@ -27,4 +27,3 @@ Kotlin · Jetpack Compose · DataStore · kotlinx.serialization
 Feature parity is intentionally partial: no auth, no cloud sync, no notifications. It exists to
 prove the native path works, not to replace the shipped app.
 
-<!-- ⚠️ ยังไม่มีภาพของตัวนี้ — adb ไม่เห็นเครื่องไหนเลย ต้องแคปจากมือถือเองแล้ววางที่ screens/ -->
